@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Shamel            | 2             |
+| Shamel            | 2             
